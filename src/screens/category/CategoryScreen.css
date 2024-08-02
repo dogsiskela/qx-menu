@@ -1,0 +1,33 @@
+.category-screen {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.category--header {
+    background: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.category--items {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.category--item {
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid rgb(217, 217, 217);
+    padding: 15px 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

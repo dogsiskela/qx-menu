@@ -1,0 +1,42 @@
+[
+    {
+      "id": 3,
+      "name": "SOFT DRINKS",
+      "logo": "https://cchbcstorage.blob.core.windows.net/media-container/product_category/logo/Soft_Drinks.jpg",
+      "active": true,
+      "created_at": "2024-06-17T09:24:29.875084Z",
+      "updated_at": "2024-06-17T09:24:29.875099Z"
+    },
+    {
+      "id": 2,
+      "name": "SEAFOOD",
+      "logo": "https://cchbcstorage.blob.core.windows.net/media-container/product_category/logo/Seafood.jpg",
+      "active": true,
+      "created_at": "2024-06-17T09:22:00.350409Z",
+      "updated_at": "2024-06-17T09:24:36.625471Z"
+    },
+    {
+      "id": 1,
+      "name": "GRILL",
+      "logo": "https://cchbcstorage.blob.core.windows.net/media-container/product_category/logo/Grill_EUH01hl.jpg",
+      "active": true,
+      "created_at": "2024-06-11T18:19:45.249722Z",
+      "updated_at": "2024-06-17T09:24:44.390188Z"
+    },
+    {
+      "id": 4,
+      "name": "BREAKFAST",
+      "logo": "https://cchbcstorage.blob.core.windows.net/media-container/product_category/logo/Breakfast.jpg",
+      "active": true,
+      "created_at": "2024-06-17T09:26:51.856984Z",
+      "updated_at": "2024-06-17T09:26:51.857000Z"
+    },
+    {
+      "id": 5,
+      "name": "DESSERT",
+      "logo": "https://cchbcstorage.blob.core.windows.net/media-container/product_category/logo/Dessert_HhcDJZa.jp g",
+      "active": true,
+      "created_at": "2024-06-17T09:28:09.609000Z",
+      "updated_at": "2024-06-17T09:28:59.328980Z"
+    }
+  ]

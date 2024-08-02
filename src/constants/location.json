@@ -1,0 +1,14 @@
+{
+    "id": 3,
+    "name": "Carpe Diem Lounge Club",
+    "logo": null,
+    "cover": null,
+    "description": "A blend of cultures, an eclectic food style. Sample Mediterranean & Asian cuisines with Arabian & Morrocan touches. Our artfully prepared food, our decoration together with the glamour at night will transport you and enhance all of your senses. Enjoy an unforgettable experience at the Carpediem official ambassador of Dom Pérignon & awarded as one of the Finest Clubs in the world.",
+    "active": true,
+    "created_at": "2024-07-15T14:44:47.164392Z",
+    "updated_at": "2024-07-15T14:44:47.164413Z",
+    "category_id": 1,
+    "catalog_ids": [
+        1
+    ]
+}

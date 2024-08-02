@@ -1,0 +1,11 @@
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const GET_PRODUCTS_BY_ID = 'GET_PRODUCTS_BY_ID';
+export const GET_CATEGORY_BY_ID = 'GET_CATEGORY_BY_ID';
+export const GET_LOCATION = 'GET_LOCATION';
+
+
+
+
+
+
+
