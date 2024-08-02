@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = "http://localhost:3000";
+const URL = window.location.protocol + '//' + window.location.host;
 
 export const postRequest = (endpoint: string, data: Object) => {
   return axios
